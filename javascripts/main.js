@@ -1,0 +1,1 @@
+(function(){var t,e;t=document.querySelector(".nav-button"),e=document.querySelector(".navigation"),t.addEventListener("click",function(){return e.classList.toggle("open"),t.classList.toggle("active")},!1)}).call(this);
